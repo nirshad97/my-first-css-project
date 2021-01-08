@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+h1 {
+  color: #66BFBF;
+  width: 20%;
+  margin: 0 auto 10px auto;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+h3{
+  color: #66BFBF;
+}
+
+p{
+  margin: 5px auto 0 auto;
+}
+.top-container {
+  background: #c6fced;
+  position: relative;
+  padding-top: 100px;
+  height: 400px;
+}
+
+.middle-container {
+background-color: #fcf1f1;
+}
+
+.bottom-container {
+
+}
+
+img {
+  position: relative;
+}
+
+.middle-art {
+  width: 512px;
+  height: 455px;
+}
+
+.bottom-cloud {
+  width: 90px;
+  height: 50px;
+  position: absolute;
+  right: 430px;
+  bottom: 325px;
+}
+
+.top-cloud {
+  width: 100px;
+  height: 60px;
+  position: absolute;
+  left: 400px;
+  bottom : 400px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.dev-pic{
+  width: 35%;
+  float: left;
+  margin-right: 30px;
+}
